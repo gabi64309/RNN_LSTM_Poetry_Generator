@@ -1,4 +1,4 @@
-#Gabi's RRN(LSTM) credits to NeuralNine YT
+#Gabi's RRN(LSTM)
 import random
 import numpy as np
 import tensorflow as tf
